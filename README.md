@@ -7,17 +7,17 @@ Redis: Install and run Redis server on the default port (6379).
 
 ## Installation
 
-```bash Clone the repository:
+``` Clone the repository:
 
-git clone https://github.com/splashray/Fetch_with_Caching.git
+   git clone https://github.com/splashray/Fetch_with_Caching.git
 
 Navigate to the project directory:
 
-```bash cd your-repo
+   cd your-repo
 
 Install the dependencies:
 
-```bash  npm install
+  npm install
 ```
 
 ## Usage
